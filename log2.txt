@@ -1,0 +1,3372 @@
+Checking username and password...
+username and password are correct!
+Reading file content...
+File path: dump/travels.json
+File size: 12244 bytes
+Reading file content...
+File path: dump/coordinates.json
+File size: 208220588 bytes
+Pairing travels and coordinates...
+Synchronizing travels...
+------------- Synchronizing travel 24 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98335dc24c54a753e9dc6...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 22400/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 22600/22733
+Coordinates updated successfully!
+Total coordinates sent until now: 22733/22733
+------------- Travel 24 synchronized successfully! -------------
+------------- Synchronizing travel 25 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a983a3fd9488f435bb9ff1...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/17608
+Coordinates updated successfully!
+Total coordinates sent until now: 17608/17608
+------------- Travel 25 synchronized successfully! -------------
+------------- Synchronizing travel 26 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a983fadc24c57e5a3ea722...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/8980
+Coordinates updated successfully!
+Total coordinates sent until now: 8980/8980
+------------- Travel 26 synchronized successfully! -------------
+------------- Synchronizing travel 27 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98427fd948849abbba62a...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/6753
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/6753
+Coordinates updated successfully!
+Total coordinates sent until now: 6753/6753
+------------- Travel 27 synchronized successfully! -------------
+------------- Synchronizing travel 28 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98455dc24c54d413eac25...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/10509
+Coordinates updated successfully!
+Total coordinates sent until now: 10509/10509
+------------- Travel 28 synchronized successfully! -------------
+------------- Synchronizing travel 29 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a9848efd948888d1bbad96...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 22400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 22600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 22800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 23000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 23200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 23400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 23600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 23800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 24000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 24200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 24400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 24600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 24800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 25000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 25200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 25400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 25600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 25800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 26000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 26200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 26400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 26600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 26800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 27000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 27200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 27400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 27600/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 27800/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 28000/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 28200/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 28400/28405
+Coordinates updated successfully!
+Total coordinates sent until now: 28405/28405
+------------- Travel 29 synchronized successfully! -------------
+------------- Synchronizing travel 30 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98523fd94882a0ebbbdcd...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 400/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 600/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 800/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/2147
+Coordinates updated successfully!
+Total coordinates sent until now: 2147/2147
+------------- Travel 30 synchronized successfully! -------------
+------------- Synchronizing travel 31 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98532dc24c5ef223ec3d4...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/22265
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/22265
+Coordinates updated successfully!
+Total coordinates sent until now: 22265/22265
+------------- Travel 31 synchronized successfully! -------------
+------------- Synchronizing travel 32 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a985acfd9488c245bbc6b0...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/12279
+Coordinates updated successfully!
+Total coordinates sent until now: 12279/12279
+------------- Travel 32 synchronized successfully! -------------
+------------- Synchronizing travel 33 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a985eafd94881d8abbca36...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/942
+Coordinates updated successfully!
+Total coordinates sent until now: 400/942
+Coordinates updated successfully!
+Total coordinates sent until now: 600/942
+Coordinates updated successfully!
+Total coordinates sent until now: 800/942
+Coordinates updated successfully!
+Total coordinates sent until now: 942/942
+------------- Travel 33 synchronized successfully! -------------
+------------- Synchronizing travel 34 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a985fadc24c55c5e3ed2e9...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/9252
+Coordinates updated successfully!
+Total coordinates sent until now: 9252/9252
+------------- Travel 34 synchronized successfully! -------------
+------------- Synchronizing travel 35 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a9862efd948856eebbcd99...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 400/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 600/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 800/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/3018
+Coordinates updated successfully!
+Total coordinates sent until now: 3018/3018
+------------- Travel 35 synchronized successfully! -------------
+------------- Synchronizing travel 36 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98641dc24c555893ed75e...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/6007
+Coordinates updated successfully!
+Total coordinates sent until now: 6007/6007
+------------- Travel 36 synchronized successfully! -------------
+------------- Synchronizing travel 37 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98663fd94887a6fbbd199...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 22400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 22600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 22800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 23000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 23200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 23400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 23600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 23800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 24000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 24200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 24400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 24600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 24800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 25000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 25200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 25400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 25600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 25800/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 26000/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 26200/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 26400/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 26600/26653
+Coordinates updated successfully!
+Total coordinates sent until now: 26653/26653
+------------- Travel 37 synchronized successfully! -------------
+------------- Synchronizing travel 38 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a986e8dc24c5850b3ee3c6...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 22400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 22600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 22800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 23000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 23200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 23400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 23600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 23800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 24000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 24200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 24400/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 24600/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 24800/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 25000/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 25200/25313
+Coordinates updated successfully!
+Total coordinates sent until now: 25313/25313
+------------- Travel 38 synchronized successfully! -------------
+------------- Synchronizing travel 39 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a987a3fd948854c6bbeaa1...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 21600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 21800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 22000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 22200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 22400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 22600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 22800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 23000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 23200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 23400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 23600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 23800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 24000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 24200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 24400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 24600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 24800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 25000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 25200/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 25400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 25600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 25800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 26000/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 26200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 26400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 26600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 26800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 27000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 27200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 27400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 27600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 27800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 28000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 28200/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 28400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 28600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 28800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 29000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 29200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 29400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 29600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 29800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 30000/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 30200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 30400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 30600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 30800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 31000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 31200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 31400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 31600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 31800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 32000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 32200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 32400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 32600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 32800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 33000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 33200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 33400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 33600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 33800/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 34000/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 34200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 34400/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 34600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 34800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 35000/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 35200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 35400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 35600/37345
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 35800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 36000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 36200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 36400/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 36600/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 36800/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 37000/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 37200/37345
+Coordinates updated successfully!
+Total coordinates sent until now: 37345/37345
+------------- Travel 39 synchronized successfully! -------------
+------------- Synchronizing travel 40 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98978fd94886c43bc010a...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/11759
+Coordinates updated successfully!
+Total coordinates sent until now: 11759/11759
+------------- Travel 40 synchronized successfully! -------------
+------------- Synchronizing travel 41 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a989bafd94881eddbc0d0b...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 20800/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 21000/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 21200/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 21400/21480
+Coordinates updated successfully!
+Total coordinates sent until now: 21480/21480
+------------- Travel 41 synchronized successfully! -------------
+------------- Synchronizing travel 42 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98a2ddc24c5c1833f2a3c...
+Coordinates updated successfully!
+Total coordinates sent until now: 200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 1000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 1200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 1400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 1600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 1800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 2000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 2200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 2400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 2600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 2800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 3000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 3200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 3400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 3600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 3800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 4000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 4200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 4400/20693
+Error updating coordinates!
+Status code: 502
+Response body: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+Trying again in 10 seconds
+Coordinates updated successfully!
+Total coordinates sent until now: 4600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 4800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 5000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 5200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 5400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 5600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 5800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 6000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 6200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 6400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 6600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 6800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 7000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 7200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 7400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 7600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 7800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 8000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 8200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 8400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 8600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 8800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 9000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 9200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 9400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 9600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 9800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 10000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 10200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 10400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 10600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 10800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 11000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 11200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 11400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 11600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 11800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 12000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 12200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 12400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 12600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 12800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 13000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 13200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 13400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 13600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 13800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 14000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 14200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 14400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 14600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 14800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 15000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 15200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 15400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 15600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 15800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 16000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 16200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 16400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 16600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 16800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 17000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 17200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 17400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 17600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 17800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 18000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 18200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 18400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 18600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 18800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 19000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 19200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 19400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 19600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 19800/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 20000/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 20200/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 20400/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 20600/20693
+Coordinates updated successfully!
+Total coordinates sent until now: 20693/20693
+------------- Travel 42 synchronized successfully! -------------
+------------- Synchronizing travel 43 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98aadfd9488750cbc3a48...
+------------- Travel 43 synchronized successfully! -------------
+------------- Synchronizing travel 44 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98ab3dc24c518c53f450f...
+Coordinates updated successfully!
+Total coordinates sent until now: 13/13
+------------- Travel 44 synchronized successfully! -------------
+------------- Synchronizing travel 45 -------------
+Creating travel...
+Travel created successfully!
+Updating travel 65a98abadc24c541503f47cc...
+Coordinates updated successfully!
+Total coordinates sent until now: 26/26
+------------- Travel 45 synchronized successfully! -------------
