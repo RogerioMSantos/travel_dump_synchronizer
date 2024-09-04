@@ -233,7 +233,7 @@ Future<void> _synchronizeTravel({
   var eventsSent = 0;
 
   while (events.isNotEmpty) {
-    final eventsToSend = events.take(200);
+    final eventsToSend = events.take(1);
 
     final requestBody = jsonEncode(
       eventsToSend
@@ -280,6 +280,10 @@ Future<void> _synchronizeTravel({
       bearerToken = await _getBearerToken(username, password);
 
       print('Bearer token updated successfully!');
+    } else if( response.statusCode == 409){
+      print('Evento ignorado')
+      events.removeRange(0, eventsToSend.length);
+
     } else {
       print('Error updating events!');
       print('Status code: ${response.statusCode}');
