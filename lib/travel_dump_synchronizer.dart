@@ -41,14 +41,14 @@ Future<void> synchronize({
   print('Pairing travels and coordinates...');
 
   for (final travel in travelJson) {
-    final travelId = travel['dbId'] as String;
+    final travelId = travel['dbId'].toString();
 
     final coordinates = coordinatesJson
-        .where((coordinates) => coordinates['travelId'] == travelId)
+        .where((coordinates) => coordinates['travelId'].toString() == travelId)
         .toList();
 
     final events = eventsJson
-        .where((event) => event['travelId'] == travelId)
+        .where((event) => event['travelId'].toString() == travelId)
         .toList();
 
     travelsWithCoordinatesAndEvents.add((travelId, travel, coordinates,events));
@@ -158,6 +158,12 @@ Future<void> _synchronizeTravel({
       travel['id'] = responseBody['id'];
 
       travelWasCreated = true;
+    } else if (response.statusCode == 401) {
+      print('Updating bearer token...');
+
+      bearerToken = await _getBearerToken(username, password);
+
+      print('Bearer token updated successfully!');
     } else {
       print('Error creating travel!');
       print('Status code: ${response.statusCode}');
@@ -281,7 +287,7 @@ Future<void> _synchronizeTravel({
 
       print('Bearer token updated successfully!');
     } else if( response.statusCode == 409){
-      print('Evento ignorado')
+      print('Event ignored');
       events.removeRange(0, eventsToSend.length);
 
     } else {
