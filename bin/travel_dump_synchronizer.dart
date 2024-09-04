@@ -8,6 +8,8 @@ void main(List<String> arguments) {
         abbr: 't', help: 'Travels JSON file path', mandatory: true)
     ..addOption('coordinatesFile',
         abbr: 'c', help: 'Coordinates JSON file path', mandatory: true)
+    ..addOption('eventsFile',
+        abbr: 'e', help: 'Coordinates JSON file path', mandatory: true)
     ..addOption('username', abbr: 'u', help: 'API Username', mandatory: true)
     ..addOption('password', abbr: 'p', help: 'API Password', mandatory: true);
 
@@ -23,12 +25,14 @@ void main(List<String> arguments) {
 
   final travelsFile = argResults['travelsFile'];
   final coordinatesFile = argResults['coordinatesFile'];
+  final eventsFile = argResults['eventsFile'];
   final username = argResults['username'];
   final password = argResults['password'];
 
   travel_dump_synchronizer.synchronize(
     travelJsonPath: travelsFile,
     coordinatesJsonPath: coordinatesFile,
+    eventsJsonPath: eventsFile,
     username: username,
     password: password,
   );

@@ -6,6 +6,7 @@ import 'package:http/http.dart' as http;
 Future<void> synchronize({
   required String travelJsonPath,
   required String coordinatesJsonPath,
+  required String eventsJsonPath,
   required username,
   required password,
 }) async {
@@ -28,9 +29,14 @@ Future<void> synchronize({
               as List)
           .cast<Map<String, dynamic>>();
 
+  final eventsJson =
+      (jsonDecode(await _getFileContent(eventsJsonPath))['objects']
+              as List)
+          .cast<Map<String, dynamic>>();
+
   // (ID, TRAVEL, COORDINATES)
-  final travelsWithCoordinates =
-      <(String, Map<String, dynamic>, List<Map<String, dynamic>>)>[];
+  final travelsWithCoordinatesAndEvents =
+      <(String, Map<String, dynamic>, List<Map<String, dynamic>>, List<Map<String, dynamic>>)>[];
 
   print('Pairing travels and coordinates...');
 
@@ -41,27 +47,33 @@ Future<void> synchronize({
         .where((coordinates) => coordinates['travelId'] == travelId)
         .toList();
 
-    travelsWithCoordinates.add((travelId, travel, coordinates));
+    final events = eventsJson
+        .where((event) => event['travelId'] == travelId)
+        .toList();
+
+    travelsWithCoordinatesAndEvents.add((travelId, travel, coordinates,events));
   }
 
   print('Synchronizing travels...');
-  for (final travelWithCoordinates in travelsWithCoordinates) {
+  for (final travelWithCoordinatesAndEvents in travelsWithCoordinatesAndEvents) {
     print(
-      '------------- Synchronizing travel ${travelWithCoordinates.$1} -------------',
+      '------------- Synchronizing travel ${travelWithCoordinatesAndEvents.$1} -------------',
     );
 
-    final travel = travelWithCoordinates.$2;
-    final coordinates = travelWithCoordinates.$3;
+    final travel = travelWithCoordinatesAndEvents.$2;
+    final coordinates = travelWithCoordinatesAndEvents.$3;
+    final events = travelWithCoordinatesAndEvents.$4;
 
     await _synchronizeTravel(
       travel: travel,
       coordinates: coordinates,
+      events: events,
       username: username,
       password: password,
     );
 
     print(
-      '------------- Travel ${travelWithCoordinates.$1} synchronized successfully! -------------',
+      '------------- Travel ${travelWithCoordinatesAndEvents.$1} synchronized successfully! -------------',
     );
 
     sleep(Duration(seconds: 5));
@@ -107,6 +119,7 @@ Future<String?> _getBearerToken(String user, String password) async {
 Future<void> _synchronizeTravel({
   required dynamic travel,
   required List<dynamic> coordinates,
+  required List<dynamic> events,
   required username,
   required password,
 }) async {
@@ -208,6 +221,67 @@ Future<void> _synchronizeTravel({
       print('Bearer token updated successfully!');
     } else {
       print('Error updating coordinates!');
+      print('Status code: ${response.statusCode}');
+      print('Response body: ${response.body}');
+      print('Trying again in 10 seconds');
+
+      sleep(Duration(seconds: 10));
+    }
+  }
+
+  final totalEvents = events.length;
+  var eventsSent = 0;
+
+  while (events.isNotEmpty) {
+    final eventsToSend = events.take(200);
+
+    final requestBody = jsonEncode(
+      eventsToSend
+          .map((events) => {
+        'fk_travel': travel['id'],
+        'lat': events['latitude'],
+        'lng': events['longitude'],
+        'speed': events['speed'],
+        'module_event_id': events['moduleEventId'],
+        'dangerous_level': events['dangerousLevel'],
+        'duration': events['duration'],
+        'event_time': events['eventTime'],
+        'measurement_value': events['measurementValue'],
+        'measurement_value_radius': events['measurementValueRadius'],
+        'measurement_value_turning_speed_limit': events['measurementValueTurningSpeedLimit'],
+        'area': events['areaDbId']
+      })
+          .toList(),
+    );
+
+    final response = await http.post(
+      Uri.parse('https://rsp.motora.ai/api/events'),
+      body: requestBody,
+      headers: {
+        'Authorization': 'Bearer $bearerToken',
+        'Content-Type': 'application/json'
+      },
+    );
+
+    if (response.statusCode >= 200 && response.statusCode < 300) {
+      print('Events updated successfully!');
+
+
+      eventsSent += eventsToSend.length;
+
+      print(
+        'Total events sent until now: $eventsSent/$totalEvents',
+      );
+
+      events.removeRange(0, eventsToSend.length);
+    } else if (response.statusCode == 401) {
+      print('Updating bearer token...');
+
+      bearerToken = await _getBearerToken(username, password);
+
+      print('Bearer token updated successfully!');
+    } else {
+      print('Error updating events!');
       print('Status code: ${response.statusCode}');
       print('Response body: ${response.body}');
       print('Trying again in 10 seconds');
